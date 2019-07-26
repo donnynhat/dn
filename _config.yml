@@ -1,5 +1,5 @@
 ---
-title: Trung Kiên Nguyễn
+title: Donny Nhật
 timezone: Asia/Bangkok
 collections:
   posts:
@@ -22,5 +22,5 @@ defaults:
     layout: page
 description: Học để tạo giá trị
 theme: minima
-siteurl: https://trungkien2007.github.io/tk/
+siteurl: https://donnynhat.github.io/dn/
 permalink: pretty
